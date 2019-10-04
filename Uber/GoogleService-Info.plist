@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>816726328490-2s7vn5kgd40d02pbp2pfq786ojphc4fk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.816726328490-2s7vn5kgd40d02pbp2pfq786ojphc4fk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5mQUZdy3jD0Qr8fc13OSEEN5deGfSvZs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>816726328490</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ausoftware.com.Uber</string>
+	<key>PROJECT_ID</key>
+	<string>uber-cfbdc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uber-cfbdc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:816726328490:ios:e3dc4a2c2cc8a2a0</string>
+	<key>DATABASE_URL</key>
+	<string>https://uber-cfbdc.firebaseio.com</string>
+</dict>
+</plist>
